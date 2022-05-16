@@ -9,4 +9,4 @@ GitHub
 My updated portfolio shows the recent work I added from my GitHub account: such as Day Planner, Note Taker App, Employee Tracker and The Recipe for Success. 
 
 ## Screenshot of portfolio 
-[Screenshot of portfolio](./assets/img/updatedscreeshotforportfolio.png)
+![Screenshot](./assets/img/updatedscreeshotforportfolio.png)
