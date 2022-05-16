@@ -1,6 +1,7 @@
 ## My Portfolio Updated!
 
-##[Deployed Link](https://reycelhuffman.github.io/my-portfolio-project-/)
+### My Portfolio Link
+[Deployed Link](https://reycelhuffman.github.io/my-portfolio-project-/)
 
 ### List of technologies:
 GitHub, VS Code 
